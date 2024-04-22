@@ -5,5 +5,6 @@ class PagesController < ApplicationController
     render :kagwyn
   end
   def jamesf243
+    render :jamesf243
   end
 end
