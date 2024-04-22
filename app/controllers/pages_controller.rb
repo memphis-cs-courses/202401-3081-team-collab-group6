@@ -3,5 +3,5 @@ class PagesController < ApplicationController
   end
 end
 
-def PKMaster23
+def pkmaster23
 end
