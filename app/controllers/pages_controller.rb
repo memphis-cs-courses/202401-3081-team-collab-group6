@@ -10,4 +10,7 @@ class PagesController < ApplicationController
   def jamesf243
     render :jamesf243
   end
+  def agarnerman
+    render :agarnerman
+  end
 end
