@@ -1,7 +1,7 @@
 class PagesController < ApplicationController
   def index
   end
-end
-
-def pkmaster23
+  def pkmaster23
+    render :pkmaster23
+  end
 end
