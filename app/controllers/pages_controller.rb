@@ -4,4 +4,9 @@ class PagesController < ApplicationController
   def pkmaster23
     render :pkmaster23
   end
+  def kagwyn
+    render :kagwyn
+  end
+  def jamesf243
+  end
 end
