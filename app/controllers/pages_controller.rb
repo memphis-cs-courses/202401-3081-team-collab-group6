@@ -2,6 +2,6 @@ class PagesController < ApplicationController
   def index
   end
 
-  def JamesF243
+  def jamesf243
   end
 end
